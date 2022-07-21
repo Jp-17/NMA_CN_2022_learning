@@ -13,6 +13,7 @@
 - explore how to use PossionHMM to find hidden states, refer to notebook
     - ssm packages
 - find the hidden states across different areas
+    - focus on certain areas, eg, motor areas, visual cortex
     - quantify the difference of state sequence across different areas
         - transition time
         - interval distribution
